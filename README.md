@@ -7,7 +7,7 @@ Rajitha Lingutla, currently pursuing B.Tech 4th year at Srinivasa Ramanujan Inst
 The crossover between design and programming has always been of interest to me, and I've been lucky enough to be a part of the Intern at KIMO/Developer funnel. I have skills that include front-end development ( HTML5, CSS, Javascript), C, python, and Java.
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LingutlaRajitha/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
